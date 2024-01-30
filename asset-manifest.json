@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactlearningWebsite/static/css/main.8b033c13.css",
+    "main.js": "/ReactlearningWebsite/static/js/main.96955783.js",
+    "static/media/jsweb.png": "/ReactlearningWebsite/static/media/jsweb.ba0a928588f389c91981.png",
+    "static/media/cssweb.png": "/ReactlearningWebsite/static/media/cssweb.e5e9e71d0fd96afd0396.png",
+    "static/media/Homepng.png": "/ReactlearningWebsite/static/media/Homepng.7fdb0d69b504f3af46d1.png",
+    "static/media/mysqlweb.png": "/ReactlearningWebsite/static/media/mysqlweb.3540c241af1d9b798bb9.png",
+    "static/media/bootstrapweb.png": "/ReactlearningWebsite/static/media/bootstrapweb.d5210cdeab1bc94309c4.png",
+    "static/media/javaweb.png": "/ReactlearningWebsite/static/media/javaweb.5d5cffa04d820ba0644c.png",
+    "static/media/imageOne.jpg": "/ReactlearningWebsite/static/media/imageOne.5f0329a7bc6f6f83cddf.jpg",
+    "static/media/phpweb.png": "/ReactlearningWebsite/static/media/phpweb.2669e4414a7770d1e027.png",
+    "static/media/htmlweb.png": "/ReactlearningWebsite/static/media/htmlweb.e77138c4c431579d25d0.png",
+    "index.html": "/ReactlearningWebsite/index.html",
+    "main.8b033c13.css.map": "/ReactlearningWebsite/static/css/main.8b033c13.css.map",
+    "main.96955783.js.map": "/ReactlearningWebsite/static/js/main.96955783.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b033c13.css",
+    "static/js/main.96955783.js"
+  ]
+}
